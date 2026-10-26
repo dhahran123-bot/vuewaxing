@@ -1,6 +1,0 @@
-# Do not publish deployment metadata as public website files.
-wrangler.jsonc
-README.md
-.assetsignore
-.gitignore
-.github/**
