@@ -1,0 +1,5 @@
+# Machine-local files
+.DS_Store
+Thumbs.db
+node_modules/
+.wrangler/
